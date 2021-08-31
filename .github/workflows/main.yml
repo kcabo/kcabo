@@ -11,4 +11,4 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_isocalendar: yes
-          template: classic
+          base: no
